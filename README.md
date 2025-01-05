@@ -21,4 +21,5 @@ https://potato-pancake-png.github.io/Counter/
 
 
 [I took this course]
- 한입 크기로 잘라 먹는 리액트(React.js) : 기초부터 실전까지 - 이정환 Winterlood
+ 한입 크기로 잘라 먹는 리액트(React.js) : 기초부터 실전까지 - 이정환
+ 
